@@ -6,3 +6,5 @@ node_modules
 .env.example
 .env.local.example
 /dist
+.dist
+dist
